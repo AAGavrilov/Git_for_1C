@@ -438,6 +438,7 @@
 			<Constant>АдресIMAPСервера</Constant>
 			<Constant>АдресPOP3Сервера</Constant>
 			<Constant>АдресSMTPСервера</Constant>
+			<Constant>БазоваяЕдиницаИзмерения</Constant>
 			<Constant>ВалютаУчета</Constant>
 			<Constant>ВоспроизводитьТекстУведомления</Constant>
 			<Constant>ВыборПровайдераГеопозиционирования</Constant>
@@ -461,6 +462,7 @@
 			<Constant>ЛогинСервисаПередачиPushУведомлений</Constant>
 			<Constant>МаркерДоступаHPK</Constant>
 			<Constant>МаркерДоступаWNS</Constant>
+			<Constant>ОсновнаяВалютаВзаиморасчетов</Constant>
 			<Constant>ОтметкаНаФотоснимкеДата</Constant>
 			<Constant>ОтметкаНаФотоснимкеТекст</Constant>
 			<Constant>ПарольIMAP</Constant>
@@ -481,7 +483,6 @@
 			<Constant>ТолькоЗащищеннаяАутентификацияPOP3</Constant>
 			<Constant>ТолькоЗащищеннаяАутентификацияSMTP</Constant>
 			<Constant>УчетПоСкладам</Constant>
-			<Constant>ОсновнаяВалютаВзаиморасчетов</Constant>
 			<CommonForm>ОбщиеНастройки</CommonForm>
 			<CommonForm>НастройкиМобильногоУстройства</CommonForm>
 			<CommonForm>НастройкаПочты</CommonForm>
