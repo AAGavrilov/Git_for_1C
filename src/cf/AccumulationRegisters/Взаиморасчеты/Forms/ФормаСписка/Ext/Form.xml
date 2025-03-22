@@ -119,6 +119,11 @@
 					<ContextMenu name="Контрагент_КонтекстноеМеню" id="11"/>
 					<ExtendedTooltip name="КонтрагентExtendedTooltip" id="24"/>
 				</LabelField>
+				<LabelField name="Договор" id="36">
+					<DataPath>Список.Договор</DataPath>
+					<ContextMenu name="ДоговорКонтекстноеМеню" id="37"/>
+					<ExtendedTooltip name="ДоговорРасширеннаяПодсказка" id="38"/>
+				</LabelField>
 				<LabelField name="Сумма" id="14">
 					<DataPath>Список.Сумма</DataPath>
 					<Title>
